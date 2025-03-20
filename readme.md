@@ -95,17 +95,7 @@ python evaluate.py
 
 The **evaluate.py** script processes the dataset row by row and computes model performance metrics.
 
-**📌 Screenshot:** _(Replace with your actual screenshot)_
-
-### 🔹 Sample Metrics Output
-
-```
-📊 Model Performance Evaluation 📊
-✅ Accuracy: 0.9292
-✅ Precision: 0.9292
-✅ Recall: 0.9292
-✅ F1 Score: 0.9292
-```
+**📌 Screenshot:** ![image alt](https://github.com/rohitsnair7272/kaiburr-assignment-rohit-task5/blob/main/frontend.png?raw=true)
 
 ---
 
