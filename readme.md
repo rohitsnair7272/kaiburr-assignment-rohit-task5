@@ -95,7 +95,7 @@ python evaluate.py
 
 The **evaluate.py** script processes the dataset row by row and computes model performance metrics.
 
-**📌 Screenshot:** ![image alt](https://github.com/rohitsnair7272/kaiburr-assignment-rohit-task5/blob/main/frontend.png?raw=true)
+**📌 Screenshot:** ![image alt](https://github.com/rohitsnair7272/kaiburr-assignment-rohit-task5/blob/main/evaluation.png?raw=true)
 
 ---
 
