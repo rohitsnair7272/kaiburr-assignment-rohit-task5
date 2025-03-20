@@ -87,7 +87,7 @@ python evaluate.py
 - **Click 'Classify Complaint'** to get the predicted category.
 - **View category output** and handle errors if they occur.
 
-**📌 Screenshot:** _(Replace with your actual screenshot)_
+**📌 Screenshot:** ![image alt](https://github.com/rohitsnair7272/kaiburr-assignment-rohit-task5/blob/main/frontend.png?raw=true)
 
 ---
 
